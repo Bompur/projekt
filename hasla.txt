@@ -1,1 +1,0 @@
-kto trzyma hasla w plaintext'cie? :)
